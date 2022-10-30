@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12)](https://github.com/JonathanPA12/github-readme-stats)-->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true)-->
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true&theme=Gradient)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPA12&layout=compact)](https://github.com/JonathanPA12/github-readme-stats)
