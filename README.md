@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12)](https://github.com/JonathanPA12/github-readme-stats)
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true)-->
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true)
+
 
 
 
