@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12)](https://github.com/JonathanPA12/github-readme-stats)
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanPA12)](https://github.com/JonathanPA12/github-readme-stats)-->
 
 <!--[![Jonathan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JonathanPA12&theme=github	)](https://github.com/JonathanPA12/github-readme-activity-graph) -->
 <p align="center">
@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanPA12&theme=tokyonight_duo" alt="JonathanPA12" /></p>
+
+</details>
