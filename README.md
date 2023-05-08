@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--[![Jonathan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JonathanPA12&theme=github	)](https://github.com/JonathanPA12/github-readme-activity-graph) -->
 <p align="center">
-    <a href="https://github.com/JonathanPA12/github-readme-stats">
+    <a href="https://github.com/jonathan-pineda-developer/github-readme-stats">
 	    <img alt="JonathanPA12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanPA12&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanPA12&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="JonathanPA12" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-pineda-developer&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="JonathanPA12" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
