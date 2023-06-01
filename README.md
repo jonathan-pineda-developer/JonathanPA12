@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <a href="#" title="Postman"><img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <a href="#" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <a href="#" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-    <a href="#" title="Git"><img src="https://img.icons8.com/color/48
+    <a href="#" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
     <!-- Agrega aquí los iconos de los lenguajes de programación que desees mostrar -->
 </p>
