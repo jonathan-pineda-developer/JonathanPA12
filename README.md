@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 -->
       </div>
      </p>
-      <p align="center"><img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;" align="center"></p>
+      <p align="center"><img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;"></p>
 <h3 align="center" ><img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;" align="center">Languages and Tools</h3>
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
