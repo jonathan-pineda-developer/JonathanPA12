@@ -65,6 +65,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C#" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="40" height="40"/>
+    <img src="https://icons8.com/icon/84710/bootstrap" alt="Bootstrap5" title="Bootstrap" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
     <!-- Agrega aquí los iconos de los lenguajes de programación que desees mostrar -->
 </p>
