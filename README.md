@@ -56,3 +56,12 @@ Here are some ideas to get you started:
 -->
       </div>
      </p>
+     ### Lenguajes de programación
+
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+    <!-- Agrega aquí los iconos de los lenguajes de programación que desees mostrar -->
+</p>
+
