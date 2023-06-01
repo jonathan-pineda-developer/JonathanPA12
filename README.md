@@ -56,12 +56,16 @@ Here are some ideas to get you started:
 -->
       </div>
      </p>
-     ### Lenguajes de programación
-
+<h3 align="center" > <img src="https://giphy.com/embed/saZNbVFWB0L7RS0f5U" width="30" height="30" style="margin-right: 10px;">My learning</h3>
 <p align="center">
+    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C#" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
     <!-- Agrega aquí los iconos de los lenguajes de programación que desees mostrar -->
 </p>
 
