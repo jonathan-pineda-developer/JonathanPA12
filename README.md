@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 -->
       </div>
      </p>
-<h3 align="center" > <img src="https://media.giphy.com/media/saZNbVFWB0L7RS0f5U/giphy-downsized-large.gif" width="30" height="30" style="margin-right: 10px;">My learning</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY4OGQ2NjZlZDNiOGEyYjY1YWNmNjNmN2ViYzE1N2VhODQwZWZiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hRRM9D2wGVuxOz1RmZ/giphy.gif" width="30" height="30" style="margin-right: 10px;">My learning</h3>
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
