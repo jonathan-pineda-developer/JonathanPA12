@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<details>
   <summary><h3>🏗️ Most experience languages</h3></summary>
   <p align="center">
     <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   </p>
 	
 </details>
-
+<details>
   <summary><h3>🌎 API experience</h3></summary>
   <p align="center">
 	   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
@@ -89,19 +89,19 @@ Here are some ideas to get you started:
   </p>	
 </details>
 
-
+<details>
   <summary><h3>🤖 Automation</h3></summary>
   <p align="center">
  <a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   </p>	
 </details>
-
+<details>
   <summary><h3>☁️ Cloud</h3></summary>
   <p align="center">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/> </a> 
   </p>	
 </details>
-
+<details>
 <summary><h3>🐬 Databases</h3></summary>
   <p align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/> </a>
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
   </p>	
 </details>
 
-
+<details>
   <summary><h3>⚙️ Agile Framework</h3></summary>
   <p align="center">
 	  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-
+<details>
   <summary><h3>🧠 Still Learning</h3></summary>
 	 
   <p align="center">
