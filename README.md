@@ -106,7 +106,8 @@ Here are some ideas to get you started:
 </details>
 <details>
   <summary>
-	  <span class="material-symbols-outlined"> <h3> Still Learning</h3></summary> <h3> Still Learning</h3></summary></span>
+	  <span class="material-symbols-outlined">   <h3> Still Learning</h3></span>
+	 </summary>
 	 
   <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
