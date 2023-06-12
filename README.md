@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 <details>
   <summary><h3>🏗️ Most experience languages</h3></summary>
   <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/angularjs.png"  target="_blank" alt="Angular" title="Angular" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"  target="_blank" title="TypeScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  target="_blank" alt="C++" title="C++" width="40" height="40"/>
  	<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" title="Bootstrap 5"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"  target="_blank" alt="CSS" title="CSS" width="40" height="40"/>
 	  	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   </p>
 	
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <details>
   <summary><h3>🤖 Automation</h3></summary>
   <p align="center">
- <a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+ <a href="https://www.selenium.dev/"  target="_blank" title="Selenium"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"  target="_blank" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   </p>	
 </details>
 <details>
@@ -105,8 +105,8 @@ Here are some ideas to get you started:
 <summary><h3>🐬 Databases</h3></summary>
   <p align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/> </a>
-	    <a href="https://www.oracle.com/database/technologies/oracle21c-windows-downloads.html" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="100" height="100" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-	 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="80" height="80" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+	    <a href="https://www.oracle.com/database/technologies/oracle21c-windows-downloads.html" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="100" height="100"  target="_blank" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+	 <a href="https://www.mysql.com/"   target="_blank" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="80" height="80" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   </p>	
 </details>
 
@@ -119,9 +119,9 @@ Here are some ideas to get you started:
 <details>
   <summary><h3>🛠️ I have worked with</h3></summary>
   <p align="center">
-	      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C#" width="40" height="40"/>
-	      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-	      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="40" height="40"/>
+	      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#"  target="_blank" title="C#" width="40" height="40"/>
+	      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"  target="_blank" title="JavaScript" width="40" height="40"/>
+	      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"  target="_blank" width="40" height="40"/>
 	  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   </p>
 </details>
@@ -149,6 +149,10 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+</a>
+
 
   </p>	
 </details>
