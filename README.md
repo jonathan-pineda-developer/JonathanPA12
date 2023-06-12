@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 #Hallo / Hola / Hello 👋
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathan-pineda-developer&color=blueviolet)
@@ -64,14 +62,6 @@ Here are some ideas to get you started:
 <h3 align="center"style="margin-right: 20px;"><img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;" align="center">Languages and Tools<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;" align="center"></h3>
 <p align="center">
 
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-
-  
-
-
-
     <a href="#" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <a href="#" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <a href="#" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
@@ -93,6 +83,7 @@ Here are some ideas to get you started:
  	<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" title="Bootstrap 5"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
 	      <a href="https://www.selenium.dev/" title="Selenium"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
 	  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
   </p>
 	
 </details>
@@ -102,13 +93,14 @@ Here are some ideas to get you started:
   <summary><h3>🛠️ I have worked with</h3></summary>
   <p align="center">
 	      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C#" width="40" height="40"/>
+	      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+	      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="40" height="40"/>
   </p>
 </details>
 <details>
   <summary>
-	![web]([URL_del_icono](https://fonts.google.com/icons?selected=Material%20Symbols%20Outlined%3Acode%3AFILL%400%3Bwght%40400%3BGRAD%400%3Bopsz%4048)
 
-	  <h3> Still Learning</h3>
+	  <h3>🧠 Still Learning</h3>
 	 </summary>
 	 
   <p align="center">
