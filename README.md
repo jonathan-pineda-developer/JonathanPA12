@@ -106,7 +106,9 @@ Here are some ideas to get you started:
 </details>
 <details>
   <summary>
-	  <span class="material-symbols-outlined">   <h3> Still Learning</h3></span>
+	![web]([URL_del_icono](https://fonts.google.com/icons?selected=Material%20Symbols%20Outlined%3Acode%3AFILL%400%3Bwght%40400%3BGRAD%400%3Bopsz%4048)
+
+	  <h3> Still Learning</h3>
 	 </summary>
 	 
   <p align="center">
