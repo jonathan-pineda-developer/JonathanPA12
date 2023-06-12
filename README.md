@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 #Hallo / Hola / Hello 👋
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathan-pineda-developer&color=blueviolet)
@@ -106,10 +106,8 @@ Here are some ideas to get you started:
 </details>
 <details>
   <summary>
-	  <span class="material-symbols-outlined">
-e86f
-</span>
-	  <h3> Still Learning</h3></summary>
+	  <span class="material-symbols-outlined"> <h3> Still Learning</h3></summary> <h3> Still Learning</h3></summary></span>
+	 
   <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
