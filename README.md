@@ -136,4 +136,19 @@ Here are some ideas to get you started:
   </p>
 </details>
 
+<details>
+  <summary><h3>🌄 New horizons</h3></summary>
+  <p align="center">
+<a href="https://www.docker.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+</a>
+
+  </p>	
+</details>
 
