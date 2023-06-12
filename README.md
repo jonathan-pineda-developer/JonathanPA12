@@ -105,9 +105,11 @@ Here are some ideas to get you started:
   </p>
 </details>
 <details>
-  <summary><h3><span class="material-symbols-outlined">
-code
-</span> Still Learning</h3></summary>
+  <summary>
+	  <span class="material-symbols-outlined">
+e86f
+</span>
+	  <h3> Still Learning</h3></summary>
   <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
