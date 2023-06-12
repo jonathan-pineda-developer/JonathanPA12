@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   <p align="center">
 	   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 	  <a href="https://swagger.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="Swagger" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="Swagger" width="40" height="40"/>
 </a>
   </p>	
 </details>
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   </p>	
 </details>
 
-	 <summary><h3>🐬 Databases</h3></summary>
+<summary><h3>🐬 Databases</h3></summary>
   <p align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 	    <a href="https://www.oracle.com/database/technologies/oracle21c-windows-downloads.html" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
