@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
   <summary><h3>🌎 API experience</h3></summary>
   <p align="center">
-	   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+	   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 	  <a href="https://swagger.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="Swagger" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="Swagger" width="90" height="50"/>
 </a>
   </p>	
 </details>
@@ -98,15 +98,15 @@ Here are some ideas to get you started:
 
   <summary><h3>☁️ Cloud</h3></summary>
   <p align="center">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/> </a> 
   </p>	
 </details>
 
 <summary><h3>🐬 Databases</h3></summary>
   <p align="center">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-	    <a href="https://www.oracle.com/database/technologies/oracle21c-windows-downloads.html" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-	 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/> </a>
+	    <a href="https://www.oracle.com/database/technologies/oracle21c-windows-downloads.html" title="Oracle"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="100" height="100" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+	 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="100" height="100" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   </p>	
 </details>
 
