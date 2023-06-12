@@ -61,16 +61,11 @@ Here are some ideas to get you started:
       <h3 align="center"><img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;"></h3>
 <h3 align="center"style="margin-right: 20px;"><img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;" align="center">Languages and Tools<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="30" height="60" style="margin-right: 20px;" align="center"></h3>
 <p align="center">
-
     <a href="#" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
-
-
-	
-	
-	
     <!-- Agrega aquí los iconos de los lenguajes de programación que desees mostrar -->
 </p>
+
 
 <details>
   <summary><h3>🏗️ Most experience languages</h3></summary>
@@ -106,6 +101,7 @@ Here are some ideas to get you started:
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   </p>	
 </details>
+<details>
 	 <summary><h3>🐬 Databases</h3></summary>
   <p align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -113,7 +109,7 @@ Here are some ideas to get you started:
 	 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   </p>	
 </details>
-<details>
+
 <details>
   <summary><h3>⚙️ Agile Framework</h3></summary>
   <p align="center">
