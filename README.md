@@ -98,6 +98,7 @@ Here are some ideas to get you started:
   </p>
 </details>
 <details>
+	  <img src="https://drive.google.com/file/d/151OZkK3Mk_b76WDfY0ECFCQ9jIqrJP7W/view?usp=sharing" alt="HTML" title="HTML" width="40" height="40"/>
   <summary><h3>🧠 Still Learning</h3></summary>
 	 
   <p align="center">
