@@ -116,6 +116,7 @@ Here are some ideas to get you started:
 	  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   </p>	
 </details>
+<details>
   <summary><h3>🛠️ I have worked with</h3></summary>
   <p align="center">
 	      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" title="C#" width="40" height="40"/>
